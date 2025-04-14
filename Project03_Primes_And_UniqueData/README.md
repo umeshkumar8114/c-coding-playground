@@ -1,5 +1,5 @@
 
-# Assignment 3 - COP 3514
+# Project - Primes and Unique Data
 
 Two programs demonstrating array manipulation and basic algorithmic logic.
 

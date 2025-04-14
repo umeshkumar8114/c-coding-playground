@@ -1,5 +1,5 @@
 
-# Assignment 4 - COP 3514
+# Project - Pointers and Grades
 
 Two programs using pointer notation and dynamic memory allocation.
 

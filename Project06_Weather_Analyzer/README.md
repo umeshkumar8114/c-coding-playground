@@ -1,5 +1,5 @@
 
-# Assignment 6 - COP 3514
+# Project - Weather Analyzer
 
 Reads temperature and rainfall data from text files and analyzes it using structs.
 

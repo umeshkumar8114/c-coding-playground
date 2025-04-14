@@ -1,5 +1,4 @@
-
-# Assignment 1 - COP 3514
+# Project - Swap and MathOps
 
 Three short C programs focusing on fundamental programming and math concepts.
 

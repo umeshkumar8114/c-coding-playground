@@ -1,5 +1,5 @@
 
-# Assignment 5 - COP 3514
+# Project - Strings and Language
 
 Programs focused on string manipulation and randomness.
 
